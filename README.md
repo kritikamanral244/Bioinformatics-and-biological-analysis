@@ -50,3 +50,5 @@ python statistics_plots.py filtered_sequences.fasta
 
 ## Author
 Kritika Manral
+B.Sc (Hons) Bioinformatics  
+LinkedIn: https://www.linkedin.com/in/kritika-manral-228743355
